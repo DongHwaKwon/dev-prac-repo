@@ -10,4 +10,9 @@
 
 # #Project2_todoCRUD
 ### discription
-    
+    basic CRUD app prac2
+### Technologies used
+    bootstrap -> modal
+    Validation
+    localstorage
+    JSON
