@@ -14,5 +14,13 @@
 ### Technologies used
     bootstrap -> modal
     Validation
-    localstorage
-    JSON
+    localstorage, JSON
+# #Pj3_ThinkingReact
+### discription
+    Thinking in react explained in react.dev
+### Techologies used
+    useState
+    (+ json-server, useEffect
+    drawing boxes around every component and subcomponent
+    state vs props
+    
